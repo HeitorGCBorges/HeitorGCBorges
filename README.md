@@ -14,6 +14,7 @@
 <div>
   <a href="mailto:heitorgabrielcarvalhoborges@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a>
   <a href="https://www.linkedin.com/in/heitorgcborges/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a>
+  <a href="https://open.spotify.com/user/r2k1d9x2bpaaxuv4704uzao32?si=4407c374e7bb498a"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"><a>
 </div>
 
 

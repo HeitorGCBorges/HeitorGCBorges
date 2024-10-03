@@ -6,13 +6,10 @@
 - 💻 I'm Coding in C++, C, Python, HTML, CSS
 
 <div>
-  <a href="https://github.com/HeitorGCBorges">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=HeitorGCBorges&include_all_commits=true&show_icons=true&locale=en&theme=discord_old_blurple&rank_icon=github"/>
-  </a>
-  <a href="https://github.com/HeitorGCBorges">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorGCBorges&theme=discord_old_blurple&layout=donut-vertical"/>
-  </a>
+  <a href="https://github.com/HeitorGCBorges"><img height="150" width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=HeitorGCBorges&include_all_commits=true&show_icons=true&locale=en&theme=discord_old_blurple&rank_icon=github"/></a>
+  <a href="https://github.com/HeitorGCBorges"><img height="150" width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorGCBorges&theme=discord_old_blurple&layout=donut-vertical"/></a>
 </div>
+
 ###
 <div>
   <a href="mailto:heitorgabrielcarvalhoborges@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a>
